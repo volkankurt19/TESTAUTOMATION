@@ -1,0 +1,2 @@
+C:\Users\User\Documents\NetBeansProjects\Airtiesapp\dist 
+java -jar -do=set:volkanv -id=2012 -map=C:\Users\User\Desktop\vlkn.xml -config=C:\Users\User\Desktop\config.properties

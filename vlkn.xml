@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<UIMap>
+	<Uniq id="2012">
+		<Information>5GHz_SSID</Information>
+		<PageLink>wireless/settings/settings_new.html</PageLink>
+		<PartialObject>ui-id-2</PartialObject>
+		<PageObject>txt_ssid_1_0</PageObject>
+		<ObjectType>txtbox</ObjectType>
+		<SaveButton>__ML_save</SaveButton>
+	</Uniq>
+	<Uniq id="2013">
+		<Information>5GHz_SecurityMode</Information>
+		<PageLink>wireless/settings/settings_new.html</PageLink>
+		<PartialObject>ui-id-2</PartialObject>
+		<PageObject>sec_mode_1_0</PageObject>
+		<ObjectType>combobox</ObjectType>
+		<SaveButton>__ML_save</SaveButton>
+	</Uniq>
+	<Uniq id="2014">
+		<Information>5GHz_Channel</Information>
+		<PageLink>wireless/settings/settings_new.html</PageLink>
+		<PartialObject>ui-id-2</PartialObject>
+		<PageObject>cmb_channel_1</PageObject>
+		<ObjectType>combobox</ObjectType>
+		<SaveButton>__ML_save</SaveButton>
+	</Uniq>
+	<Uniq id="2015">
+		<Information>5GHz_SecurityKey</Information>
+		<PageLink>wireless/settings/settings_new.html</PageLink>
+		<PartialObject>ui-id-2</PartialObject>
+		<PageObject>app_sec_password_1_0</PageObject>
+		<ObjectType>txtbox</ObjectType>
+		<SaveButton>__ML_save</SaveButton>
+	</Uniq>
+</UIMap>
